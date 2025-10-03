@@ -1,0 +1,1 @@
+Run ../download_data.py to fetch PDBs and ligands.
